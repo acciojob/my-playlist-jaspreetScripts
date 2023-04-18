@@ -16,8 +16,14 @@ h1{
 	text-align:center;
 	width:350px;
 margin-left:250px;
-	background-color:white;
+	background-color:rgb(255, 255, 255);
 }
 .player_two div h5{
 	text-align:left
+}
+a{
+	text-decoration-line:none;
+}
+li{
+	list-style-type:none;
 }
