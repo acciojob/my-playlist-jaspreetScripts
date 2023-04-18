@@ -11,7 +11,7 @@ h1{
 	
 	text-align:center;
 }
-.player_two div{
+div.player_two {
 /* 	border:1px solid; */
 	text-align:center;
 	width:350px;
